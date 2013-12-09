@@ -25,11 +25,11 @@ public class BaseTestClass {
 	}
 	
 		
-	/*@AfterClass
+	@AfterClass
 	public void browserQuit(){
 		System.out.println("Browser Closed");
 		driver.quit();
 	}
-*/
+
 }
 
