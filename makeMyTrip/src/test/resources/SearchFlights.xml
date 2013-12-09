@@ -1,0 +1,7 @@
+<suite name="Flights TestSuite">
+  <test verbose="2" name="Flights TestSuite">
+    <classes>
+      <class name="com.trip.flights.SearchFlightsClass"/>
+    </classes>
+  </test> 
+</suite> 
