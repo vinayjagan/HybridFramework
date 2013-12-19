@@ -1,5 +1,5 @@
 
-package com.trip.flights;
+package com.trip.library;
 
 
 import java.util.concurrent.TimeUnit;

@@ -8,6 +8,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
+import com.trip.library.BaseTestClass;
+
 public class SearchFlightsClass extends BaseTestClass{
 	
 	@Test

@@ -3,11 +3,10 @@ package com.trip.hotels;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
-
 import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.Test;
 
-import com.trip.flights.BaseTestClass;
+import com.trip.library.BaseTestClass;
 
 public class HotelBookingClass extends BaseTestClass{
 	
